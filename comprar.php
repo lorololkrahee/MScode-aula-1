@@ -1,5 +1,8 @@
 <?php
 require_once('dados.php');
+require_once('compraService.php');
+require_once('whatsapp.php');
+require_once('Correios.php');
 
 
 try {
